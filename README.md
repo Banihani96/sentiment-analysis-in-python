@@ -1,4 +1,4 @@
-# sentiment-analysis-in-python
+# Twitter sentiment-analysis-in-python
 Nowadays, social media platforms have become tremendously shaping the world around us, 
 and because of its unconventional benefits has been adopted by many organisations. 
 More and more companies are utilising social media data to have a better understanding of users. 
